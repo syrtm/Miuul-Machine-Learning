@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("Python Programming for Data Science/persona.csv")
+df = pd.read_csv("datasets/persona.csv")
 
 print(df.info())
 print(df.head())
